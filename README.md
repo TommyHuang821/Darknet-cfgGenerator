@@ -6,7 +6,7 @@ However, it's not easy to configure your own NN structure in the .cfg file, if y
 
 This cfg generator help to solve this problem.
 
-The network structure can be configured by using the .xlsx file. (model_yolov3.xlsx is the example in configuring the YOLOv3.)
+The network structure can be configured by using the .xlsx file. ([model_yolov3.xlsx](https://github.com/TommyHuang821/Darknet-cfgGenerator/blob/master/model_yolov3.xlsx) is the example in configuring the YOLOv3.)
 
 The "current_layer_code" is the code number for the current component. You must add the "previous_layer_code" for the current component, in meaning that this component is following by the "previous_layer_code" component.
 
