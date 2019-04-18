@@ -16,7 +16,7 @@ The concatenation and elementwiseSum are easy to implement by the [route] ("rout
 
 I think it's easy to use, so I don't make the detail tutorial.
 
-When your own .cfg is ready, the cfg NN structure can be visualized by ["Visualization-for-Darknet-network-structure-"](https://github.com/TommyHuang821/Deep-Learning-API-example/blob/master/Install/TensorFlow%E5%AE%89%E8%A3%9D.md). 
+When your own .cfg is ready, the cfg NN structure can be visualized by ["Visualization-for-Darknet-network-structure-"](https://github.com/TommyHuang821/Visualization-for-Darknet-network-structure-). 
 
 ## main entry
 main_Darknet_cfgGenerator.py
