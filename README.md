@@ -1,4 +1,4 @@
-# Darknet cfg filer generator by a .xlsx file
+# Darknet cfg file generator by a .xlsx file
 
 Darknet is used to configure for YOLO structure in the .cfg file.
 
